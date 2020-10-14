@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">capPlication</string>
+    <string name="im">./res/mipmap/Screenshot.png</string>
+</resources>
